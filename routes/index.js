@@ -6,12 +6,9 @@ const ListProxies = require('../proxy.json');
 
 
 
-// router.get('/api/proxy', function(req, res, next) {
-//     res.send({
-//         message: "ListProxies",
-//         members: proxies
-//     })
-// })
+router.get('/api/proxy', function(req, res, next) {
+  res.send(ListProxies)
+})
 
 
 router.get('/api', function(req, res) {
