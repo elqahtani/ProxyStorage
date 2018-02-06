@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const app = express(); // define our app using express
 
-// const ListProxies = require('./proxy.json');
+const ListProxies = require('../proxy.json');
 
 
 
