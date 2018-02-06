@@ -30,7 +30,7 @@ API    | https://proxy.rm-rf.web.id/api/
 
 ## ToDo
 
-- [ ] Get All Proxies Data
-- [x] Get proxy data by country
-- [x] Get proxy data by protocol
-- [x] Get proxy data by type
+- [x] Get All Proxies Data
+- [ ] Get proxy data by country
+- [ ] Get proxy data by protocol
+- [ ] Get proxy data by type
